@@ -52,7 +52,5 @@ Contributions are welcome! If you'd like to enhance the project or fix any issue
 
 ## Contact  
 
-For any questions or feedback, feel free to reach out:  
+For any questions or feedback, feel free to reach out.  
 
-- **Author**: Prakhar Mishra  
-- **GitHub**: [prakharm614](https://github.com/prakharm614)  
